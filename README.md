@@ -1,6 +1,7 @@
 # duolingo
 
 [![Keep my Duolingo streak](https://github.com/rfoel/duolingo/actions/workflows/study.yml/badge.svg?branch=main)](https://github.com/FreshlyPickledBeefyCrunch/duolingo/actions/workflows/study.yml)
+
 [![Keep my Duolingo streak](https://github.com/rfoel/duolingo/actions/workflows/streak-keeper.yml/badge.svg?branch=main)](https://github.com/FreshlyPickledBeefyCrunch/duolingo/actions/workflows/streak-keeper.yml)
 
 <img src="duo.svg" width="128px"/>
