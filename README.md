@@ -8,6 +8,8 @@
 
 Streak keeper and XP farm for Duolingo that can be automated using Github Actions. Never get demoted again!
 
+##Notice - This project was created by [rfoel](https://github.com/rfoel/duolingo)
+
 ### How to use
 1. [Fork this repository](https://github.com/rfoel/duolingo/fork)
 2. Go to [Duolingo](https://www.duolingo.com)
