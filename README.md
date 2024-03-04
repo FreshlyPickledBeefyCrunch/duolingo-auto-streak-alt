@@ -1,12 +1,12 @@
 # duolingo
 
-[![Keep my Duolingo streak](https://github.com/rfoel/duolingo/actions/workflows/study.yml/badge.svg?branch=main)](https://github.com/FreshlyPickledBeefyCrunch/duolingo/actions/workflows/study.yml)
+[![Keep my Duolingo streak](https://github.com/FreshlyPickledBeefyCrunch/duolingo/actions/workflows/study.yml/badge.svg?branch=main)](https://github.com/FreshlyPickledBeefyCrunch/duolingo/actions/workflows/study.yml)
 
-[![Keep my Duolingo streak](https://github.com/rfoel/duolingo/actions/workflows/streak-keeper.yml/badge.svg?branch=main)](https://github.com/FreshlyPickledBeefyCrunch/duolingo/actions/workflows/streak-keeper.yml)
+[![Keep my Duolingo streak](https://github.com/FreshlyPickledBeefyCrunch/duolingo/actions/workflows/streak-keeper.yml/badge.svg?branch=main)](https://github.com/FreshlyPickledBeefyCrunch/duolingo/actions/workflows/streak-keeper.yml)
 
 <img src="duo.svg" width="128px"/>
 
-Streak keeper and XP farm for Duolingo that can be automated using Github Actions. Never get demoted again!
+Streak keeper and XP farm for Duolingo that can be automated using GitHub Actions. Never get demoted again!
 
 ## Notice - This project was created by [rfoel](https://github.com/rfoel/duolingo)
 
