@@ -2,7 +2,7 @@
 
 [![Do a Duolingo lesson](https://github.com/FreshlyPickledBeefyCrunch/duolingo-auto-streak/actions/workflows/study.yml/badge.svg)](https://github.com/FreshlyPickledBeefyCrunch/duolingo-auto-streak/actions/workflows/study.yml)
 
-[![Keep my Duolingo streak](https://github.com/FreshlyPickledBeefyCrunch/duolingo/actions/workflows/streak-keeper.yml/badge.svg?branch=main)](https://github.com/FreshlyPickledBeefyCrunch/duolingo/actions/workflows/streak-keeper.yml)
+[![Keep my Duolingo streak](https://github.com/FreshlyPickledBeefyCrunch/duolingo-auto-streak/actions/workflows/streak-keeper.yml/badge.svg)](https://github.com/FreshlyPickledBeefyCrunch/duolingo-auto-streak/actions/workflows/streak-keeper.yml)
 
 <img src="duo.svg" width="128px"/>
 
