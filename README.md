@@ -1,4 +1,4 @@
-# duolingo
+# Duolingo
 
 [![Do a Duolingo lesson](https://github.com/FreshlyPickledBeefyCrunch/duolingo-auto-streak/actions/workflows/study.yml/badge.svg)](https://github.com/FreshlyPickledBeefyCrunch/duolingo-auto-streak/actions/workflows/study.yml)
 
