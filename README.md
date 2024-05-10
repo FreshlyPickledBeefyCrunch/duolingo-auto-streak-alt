@@ -30,7 +30,10 @@ document.cookie
 
 For `SESSION_PAYLOAD` in `index.js`, replace the sample SESSION_PAYLOAD with your own:
 
-Video Guide to retrieve `SESSION_PAYLOAD`: https://github.com/Sodiumchloridy/duolingo-auto-streak/assets/67376832/b9dfa837-cadd-4343-b767-73ab71d89d80
+Video Guide to retrieve `SESSION_PAYLOAD`: 
+https://www.youtube.com/watch?v=jVcRsE_T8ew
+
+[![Duolingo Sessions Payload Guide](https://img.youtube.com/vi/jVcRsE_T8ew/0.jpg)](https://www.youtube.com/watch?v=jVcRsE_T8ew)
 
 1. While in Duolingo web app, open developer console [F12], navigate to 'Network' tab, proceed to start a lesson.
 2. Find the 'sessions' request, then under 'Payload' tab > 'view source' then copy & paste it to SESSION_PAYLOAD.
